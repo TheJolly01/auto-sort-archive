@@ -15,10 +15,20 @@ Basically, the purpose of this project is to create a program that, given incomi
 
 #### ADDED:
 - basic mergesort algorithm
-![Business Source Banner](https://imgur.com/a/YZFOhmP)
+
+<picture>
+<img src="/images/Business Source.png">
+</picture>
+
 ## Business Source
 After years of companies continuing to use visually hideous and complex programs, it is time to create **beautiful**, **high-performance** programs with everyone's help. This is how the **BS** ("Business Source") project was born, an **open source project** found on GitHub.
 
+<p align="center">
+ <picture align="center">
+  <img src="/images/LogoBS.png">
+ </picture>
+</p>
+ 
 ###### Link to the official **auto-sort-archive** project: https://github.com/TheJolly01/auto-sort-archive
  
 ###### **Anyone here can help**, just send an e-mail saying what you would propose to add to: adelrio.dev@outlook.com
