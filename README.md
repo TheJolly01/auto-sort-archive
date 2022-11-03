@@ -32,3 +32,5 @@ After years of companies continuing to use visually hideous and complex programs
 ###### Link to the official **auto-sort-archive** project: https://github.com/TheJolly01/auto-sort-archive
  
 ###### **Anyone here can help**, just send an e-mail saying what you would propose to add to: adelrio.dev@outlook.com
+
+###### How to move files with python: https://pynative.com/python-move-files/
