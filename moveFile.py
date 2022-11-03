@@ -2,7 +2,7 @@ import shutil
 
 
 def moveFileFunction():
-    file = input("Quale file vuoi muovere dalla cartella PRIVATE?")
-    src = "C:\Documents\AntonioDelrio\PRIVATE\\" + "" + file
-    shutil.move(src, "C:\Documents\AntonioDelrio\PRIVATE\Sposta")
+    file = input("What file do you want to move from PRIVATE? (Specifies the extension)")
+    src = "C:\Documents\PRIVATE\\" + "" + file
+    shutil.move(src, "C:\Documents\PRIVATE\Moved")
     return print("Success")
