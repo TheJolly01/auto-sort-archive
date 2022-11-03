@@ -15,7 +15,7 @@ Basically, the purpose of this project is to create a program that, given incomi
 
 #### ADDED:
 - basic mergesort algorithm
-
+![Business Source Banner](https://imgur.com/a/YZFOhmP)
 ## Business Source
 After years of companies continuing to use visually hideous and complex programs, it is time to create **beautiful**, **high-performance** programs with everyone's help. This is how the **BS** ("Business Source") project was born, an **open source project** found on GitHub.
 
