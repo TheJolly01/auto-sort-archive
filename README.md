@@ -1,6 +1,7 @@
 <p align="center">
  <img src="/images/LogoASA.png">
 </p>
+
 # AutoSortArchive
 This software was created to be **business software** that automatically sorts files and creates an **automatic archive** to **quickly** store and find all the documents a company needs.
 Basically, the purpose of this project is to create a program that, given incoming files, places them in the **right place** in an archive reordered according to the **user's needs**.
