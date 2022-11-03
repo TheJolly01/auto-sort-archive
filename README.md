@@ -1,19 +1,24 @@
 # AutoSortArchive
-Questo software è stato creato per essere un software aziendale che ordina automaticamente i file e crea un archivio automatico per memorizzare e trovare rapidamente tutti i documenti di cui un'azienda ha bisogno.
-In pratica, lo scopo di questo progetto è quello di creare un programma che, dati i file in ingresso, li collochi al posto giusto in un archivio riordinato in base alle esigenze dell'utente.
+This software was created to be business software that automatically sorts files and creates an automatic archive to quickly store and find all the documents a company needs.
+Basically, the purpose of this project is to create a program that, given incoming files, places them in the right place in an archive reordered according to the user's needs.
 
-DA AGGIUNGERE:
-- leggere i file dalla cartella scelta dall'utente come cartella "UPLOAD"
-- creare cartelle in base alle scelte dell'utente
-- modificare cartelle in base alle scelte dell'utente 
-- spostare i file nelle cartelle corrette automaticamente
-- rinominare i file in base alle scelte dell'utente
-- personalizzare le cartelle di destinazione in basse alle scelte dell'utente
-- modifica dei file in base alle scelte dell'utente
-- collegamento di mergesort ai file per riordinare file in base all'ordine scelto
-- interfaccia utente gradevole e moderna per non annoiare l' utente
+TO ADD:
+- read files from the folder chosen by the user as the "UPLOAD" folder
+- create folders based on the user's choices
+- edit folders based on user's choices 
+- move files to the correct folders automatically
+- rename files based on user choices
+- customize destination folders based on user's choices
+- edit files based on user choices
+- mergesort link to files to reorder files based on the order chosen
+- nice and modern user interface so as not to bore the user
 
-AGGIUNTO:
-- algoritmo base di mergesort
+ADDED:
+- basic mergesort algorithm
 
-Dopo anni che le aziende continuano ad usare programmi complessi e orribili a livello visivo, è arrivato il momento di creare dei programmi belli e prestanti con l'aiuto di tutti. Nasce così il progetto OBJ, un progetto  su GitHub di Jolly
+After years of companies continuing to use visually hideous and complex programs, it is time to create beautiful, high-performance programs with everyone's help. Thus was born the BS ("Business Source") project, an open source project found on GitHub.
+Link to the official project: https://github.com/TheJolly01/auto-sort-archive
+
+Anyone here can help, just send an e-mail saying what you would propose to add to adelrio.dev@outlook.com 
+
+Translated with www.DeepL.com/Translator (free version)
