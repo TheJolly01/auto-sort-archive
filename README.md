@@ -1,3 +1,6 @@
+<p align="center">
+ <img src="/images/LogoASA.png">
+</p>
 # AutoSortArchive
 This software was created to be **business software** that automatically sorts files and creates an **automatic archive** to **quickly** store and find all the documents a company needs.
 Basically, the purpose of this project is to create a program that, given incoming files, places them in the **right place** in an archive reordered according to the **user's needs**.
@@ -16,16 +19,12 @@ Basically, the purpose of this project is to create a program that, given incomi
 #### ADDED:
 - basic mergesort algorithm
 
-<picture>
-<img src="/images/Business Source.png">
-</picture>
-
 ## Business Source
 After years of companies continuing to use visually hideous and complex programs, it is time to create **beautiful**, **high-performance** programs with everyone's help. This is how the **BS** ("Business Source") project was born, an **open source project** found on GitHub.
 
 <p align="center">
  <picture align="center">
-  <img src="/images/LogoBS.png">
+  <img src="/images/Business Source.png">
  </picture>
 </p>
  
